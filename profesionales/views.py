@@ -6,6 +6,6 @@ print('este es otro print el cul vmos a usar pr este ejercicio')
 
 print('tenemos otro print mas de ejemplo wuuuuu')
 
-print('vamos a generar conflictoooos')
+print('vamos a generar conflictoooffhwejfnwejkfnefjkos')
 
 # Create your views here.
