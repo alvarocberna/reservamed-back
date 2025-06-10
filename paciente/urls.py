@@ -7,5 +7,5 @@ from .views import *
 # 3-para qué sirve el name ?
 
 urlpatterns = [
-    path('paciente/ver-paciente/', PacienteView.as_view(), name='pacientes'),
+    path('paciente/', PacienteView.as_view(), name='pacientes'),
 ]
